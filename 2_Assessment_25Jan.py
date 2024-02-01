@@ -35,6 +35,9 @@ print(list1)
 print("List2: ", end=" ")
 print(list2)
 new_list = []
+'''for i in list1:
+    for j in list2:
+        new_list.append(list1[i]+list2[j])'''
 for i in range(len(list1)):
     for j in range(len(list2)):
         new_list.append(list1[i]+" "+list2[j]) 
