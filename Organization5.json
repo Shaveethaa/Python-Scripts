@@ -1,0 +1,36 @@
+{
+    "organization": {
+        "departments": [
+            {
+                "name": "Engineering",
+                "employees": [
+                    {
+                        "name": "Alice",
+                        "position": "Engineer"
+                    },
+                    {
+                        "name": "Bob",
+                        "position": "Manager"
+                    },
+                    {
+                        "name": "Charlie",
+                        "position": "Engineer"
+                    }
+                ]
+            },
+            {
+                "name": "Sales",
+                "employees": [
+                    {
+                        "name": "David",
+                        "position": "Salesperson"
+                    },
+                    {
+                        "name": "Eve",
+                        "position": "Manager"
+                    }
+                ]
+            }
+        ]
+    }
+}
